@@ -1,0 +1,29 @@
+:global {
+  body[data-theme='light'] {
+    --help-bg-color: var(--gray-500);
+    --help-color: var(--white);
+  }
+
+  body[data-theme='dark'] {
+    --help-bg-color: var(--gray-450);
+    --help-color: var(--white);
+  }
+}
+.help {
+display: flex;
+justify-content: space-between;
+color: var(--help-color);
+align-items: center;
+background: var(--help-bg-color);
+height: 30px;
+border-radius: 15px;
+margin-top: 20px;
+}
+
+span {
+  font-size: 24px;
+}
+
+a {
+  color: red;
+}

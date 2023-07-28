@@ -1,0 +1,32 @@
+:global {
+  body[data-theme='light'] {
+    --header-color: var(--gray-300);
+  }
+
+  body[data-theme='dark'] {
+    --header-color: var(--white);
+  }
+}
+
+.header {
+  margin: 35px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+svg {
+  margin-right: 20px;
+}
+
+.logo_text {
+  color: var(--header-color);
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
