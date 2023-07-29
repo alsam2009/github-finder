@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/git-finder/static/css/main.d64fe710.css",
+    "main.js": "/git-finder/static/js/main.46e65623.js",
+    "static/media/icon-github.svg": "/git-finder/static/media/icon-github.badda014d9cbffd15aef34d120175960.svg",
+    "static/media/icon-sun.svg": "/git-finder/static/media/icon-sun.c3177fa453380a8147df081ec10c2789.svg",
+    "static/media/icon-website.svg": "/git-finder/static/media/icon-website.cf4904e442232792159e0e1bd2d500aa.svg",
+    "static/media/icon-company.svg": "/git-finder/static/media/icon-company.6331bb91a37d52462978487317f0c6e9.svg",
+    "index.html": "/git-finder/index.html",
+    "static/media/icon-moon.svg": "/git-finder/static/media/icon-moon.f5076b814caae9443a0b8ee24682ed13.svg",
+    "static/media/icon-search.svg": "/git-finder/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
+    "static/media/icon-location.svg": "/git-finder/static/media/icon-location.f6d18983ab4be8b3314d51c208fba4d4.svg",
+    "main.d64fe710.css.map": "/git-finder/static/css/main.d64fe710.css.map",
+    "main.46e65623.js.map": "/git-finder/static/js/main.46e65623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d64fe710.css",
+    "static/js/main.46e65623.js"
+  ]
+}
